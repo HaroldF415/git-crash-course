@@ -3,9 +3,9 @@
 ___
 ### Table of Contents
 
--[Description](#description)
--[Usage](#usage)
--[Credits](#credits)
+- [Description](#description)
+- [Usage](#usage)
+- [Credits](#credits)
 ___
 ### Description
 
